@@ -1,0 +1,614 @@
+{
+  "Major": [],
+  "Minor": [],
+  "Oracle": [
+    {
+      "name": "Oracle Card 01",
+      "image": "https://i.ibb.co/G3r3H7QX/01TIME.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 02",
+      "image": "https://i.ibb.co/MyYZj3zb/02-SIMPLICITY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 03",
+      "image": "https://i.ibb.co/7JR0hQTx/03-VISIONS.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 04",
+      "image": "https://i.ibb.co/GvCPXg7s/04WISDOM.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 05",
+      "image": "https://i.ibb.co/GfrvkFT7/05-SHADOWS.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 06",
+      "image": "https://i.ibb.co/27FXdYHw/06-REFLECTION.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 07",
+      "image": "https://i.ibb.co/CsJf351X/07-SERENITY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 08",
+      "image": "https://i.ibb.co/8ns2vpXX/08WONDER.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 09",
+      "image": "https://i.ibb.co/DHPrtq0S/09-PROTECTION.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 10",
+      "image": "https://i.ibb.co/cKyw6FzB/10NATURE.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 11",
+      "image": "https://i.ibb.co/0yrdvDnS/11-PROSPERITY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 12",
+      "image": "https://i.ibb.co/dsygywZw/12-PATIENCE.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 13",
+      "image": "https://i.ibb.co/k2dgfRM5/13MAGIC.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 14",
+      "image": "https://i.ibb.co/ymcm9Rm5/14-MIRACLES.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 15",
+      "image": "https://i.ibb.co/8L4GZ4Fx/15LOVE.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 16",
+      "image": "https://i.ibb.co/fG47tVRn/16-MYSTERY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 17",
+      "image": "https://i.ibb.co/b52g4dKG/17-HEALING.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 18",
+      "image": "https://i.ibb.co/xtrSBmFb/18JOY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 19",
+      "image": "https://i.ibb.co/whXC7FJZ/19-ILLUMINATION.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 20",
+      "image": "https://i.ibb.co/jZTRy5pG/20-LEARNING.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 21",
+      "image": "https://i.ibb.co/CpHMQRZJ/21-SOVEREIGNTY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 22",
+      "image": "https://i.ibb.co/XxSV85DM/22-INTUITION.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 23",
+      "image": "https://i.ibb.co/B5VdrKSw/23HOPE.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 24",
+      "image": "https://i.ibb.co/WWCc9dbs/24-DREAMING.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 25",
+      "image": "https://i.ibb.co/9HJWwSzT/25-DISCOVERY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 26",
+      "image": "https://i.ibb.co/6JPHgKrS/26-COURAGE.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 27",
+      "image": "https://i.ibb.co/MyFmRHcY/27-CREATIVITY.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 28",
+      "image": "https://i.ibb.co/bMTz2DBS/28-COMPASSION.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 29",
+      "image": "https://i.ibb.co/sJb0ZdxP/29-AWAKEING.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 30",
+      "image": "https://i.ibb.co/QF8fqq2J/30CHANGE.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 31",
+      "image": "https://i.ibb.co/Jw3H4vkh/31-ANCESTORS.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Oracle Card 32",
+      "image": "https://i.ibb.co/srtqMHn/32-BALANCE.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    }
+  ]
+}
