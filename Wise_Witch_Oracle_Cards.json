@@ -1,0 +1,386 @@
+{
+  "Major": [],
+  "Minor": [],
+  "Oracle": [
+    {
+      "name": "1-Manifest",
+      "image": "https://i.ibb.co/8LkD7Cfv/1-Manifest.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "2-Vision",
+      "image": "https://i.ibb.co/m5vFJG2r/2-Vision.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "3-Balance",
+      "image": "https://i.ibb.co/Kpzkvzjt/3-Balance.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "4-Intuition",
+      "image": "https://i.ibb.co/s9zcDwqV/4-Intuition.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "5-Enlighten",
+      "image": "https://i.ibb.co/fdpRQBsW/5-Enlighten.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "6-Transformation",
+      "image": "https://i.ibb.co/275hCTWZ/6-Transformation.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "7-Herbs",
+      "image": "https://i.ibb.co/3mMvxdWp/7-Herbs.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "8-Companion",
+      "image": "https://i.ibb.co/tMMv34vm/8-Companion.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "9-Roots",
+      "image": "https://i.ibb.co/8gpVbf5Q/9-Roots.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "10-Guidance",
+      "image": "https://i.ibb.co/CKVn0jr4/10-Guidance.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "11-Focus",
+      "image": "https://i.ibb.co/QjjMQK68/11-Focus.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "12-Alignment",
+      "image": "https://i.ibb.co/ymWCCF5k/12-Alignment.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "13-Wisdom",
+      "image": "https://i.ibb.co/fGKfTSch/13-Wisdom.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "14-Abundance",
+      "image": "https://i.ibb.co/RpJV6Sgt/14-Abundance.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "15-Clarity",
+      "image": "https://i.ibb.co/7JgWsFkL/15-Clarity.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "16-Misterries",
+      "image": "https://i.ibb.co/VY03XJkF/16-Misterries.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "17-Protection",
+      "image": "https://i.ibb.co/99k1GLVy/17-Protection.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "18-Eclipse",
+      "image": "https://i.ibb.co/5Xzm57b4/18-Eclipse.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "19-Serenity",
+      "image": "https://i.ibb.co/PZS00kfh/19-Serenity.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "20-Threads",
+      "image": "https://i.ibb.co/vv1z1Z1G/20-Threads.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    }
+  ]
+}
